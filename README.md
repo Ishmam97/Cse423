@@ -2,7 +2,7 @@
 `````
 Some Line and circle drawing algorithms from Computer Graphics course in Brac University
 `````
-Java
-JFrame
-JOGL
+Java  
+JFrame  
+JOGL  
 Algorithms
