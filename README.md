@@ -6,7 +6,7 @@ Some Line and circle drawing algorithms from Computer Graphics course in Brac Un
  - Midpoint Line drawing with zone conversion
  - Circle drawing 8way symmetry
  - Cohen Sutherland Line Clipping
- coming soon - Cyrus beck line clipping
+ - Cyrus beck line clipping
 `````
 Keywords:
 Java  
